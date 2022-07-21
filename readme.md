@@ -18,5 +18,5 @@
   
 ## Link for my main for all the ressources
   
-You can have access to the resources of my Laboratoire 7 - Recherche de données website [this is the 
+You can have access to the resources of my Laboratoire 8 - Recherche de données website [this is the 
 link](https://github.com/MiguelJerome/mysqlLab08) 
