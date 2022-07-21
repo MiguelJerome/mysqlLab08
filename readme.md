@@ -11,6 +11,10 @@
  
 ### Project Resources 
 * mysql
+        - [northwind](northwind.sql)
+* mysql
+        - [northwind-data](northwind-data.sql)
+* mysql
         - [solution](laboratoire-8-solution.e416bb0a.sql)
 * LAB08
         - [lab08](mysqlLab08.sql)        
