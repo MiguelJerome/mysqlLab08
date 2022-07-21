@@ -13,7 +13,7 @@
 * mysql
         - [solution](laboratoire-8-solution.e416bb0a.sql)
 * LAB08
-        - [lab07](mysqlLab08.sql)        
+        - [lab08](mysqlLab08.sql)        
  
   
 ## Link for my main for all the ressources
